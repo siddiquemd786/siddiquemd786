@@ -18,7 +18,7 @@ Skills:  PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at (https://github.com/siddiquemd786/siddique786)
 
-- 📝 I regularly write articles on [https://web@programming-hero.com)
+- 📝 I regularly write articles on [[https://web@programming-hero.com](https://web.programming-hero.com/))
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
