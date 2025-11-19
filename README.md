@@ -1,4 +1,5 @@
-![I am siddiquemd786]([https://ibb.co.com/wFY117cN))
+<img width="960" height="300" alt="image" src="https://github.com/user-attachments/assets/33c50a7a-6bc3-4b5c-bf08-d45775b240a6" />
+
 
 <h1 align="center">Hi 👋, I'm Md. Abu Bakar Siddique (Siddique)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
